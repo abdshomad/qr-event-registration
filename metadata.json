@@ -1,0 +1,7 @@
+{
+  "name": "QR Event Registration",
+  "description": "A modern event registration application that generates unique QR codes for each event. Attendees can scan the code to access a registration form, and organizers can view the attendee list in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
